@@ -25,7 +25,7 @@ The optional `--local-materials` flag copies the sibling `../MLSD-Fall2025/files
 2. In this repository’s Settings → Pages, select **GitHub Actions**.
 3. Push to `main`, or run the included workflow manually.
 
-The expected project URL is `https://sut-cs-mlsd.github.io/MLSD-Website/`. This is a deployment target, not a claim that deployment has already occurred. Relative assets and hash navigation support GitHub Pages project subpaths.
+The organization website URL is `https://sut-cs-mlsd.github.io/`. The repository is named `sut-cs-mlsd.github.io` to publish at the organization root. Relative assets and hash navigation support GitHub Pages project subpaths.
 
 ## Maintain
 
